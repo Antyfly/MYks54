@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kabs">
+        <item>Mystical place</item>
+        <item>Логово волчицы ИКТ</item>
+        <item>Кабинет 401</item>
+        <item>Кабинет 402</item>
+        <item>Кабинет 403</item>
+        <item>Кабинет 404</item>
+        <item>Кабинет 405</item>
+        <item>Кабинет 407</item>
+        <item>Кабинет 408</item>
+        <item>Кабинет 508</item>
+
+    </string-array>
+
+    <string-array name="predmet">
+        <item>Основы философии</item>
+        <item>МДК 01.03. Разработка мобильных приложений</item>
+        <item>МДК 01.01 Разрабока программных модулей</item>
+        <item>Физическая культура</item>
+        <item>Безопасность жизнедеятельности</item>
+        <item>МДК 04.02 Обеспечение качества функционирования компьютерных систем</item>
+        <item>МДК 11.01 Технология разработки и защиты баз данных</item>
+    </string-array>
+
+    <string-array name="raspisanie">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+    </string-array>
+
+
+    <string-array name="isp94">
+        <item>Абдулкадирова Диана</item>
+        <item>Арсланова Алтынай</item>
+        <item>Ахметов Данила</item>
+        <item>Бойко Анастасия</item>
+        <item>Ждан Богдан</item>
+        <item>Исаев Сергей</item>
+        <item>Исакова Жасмин</item>
+        <item>Кострюков Никита</item>
+        <item>Кочетова Виктория</item>
+        <item>Ларичкин Вадим</item>
+        <item>Мамонова Ксения</item>
+        <item>Помазан Алексей</item>
+        <item>Попова Дарья</item>
+        <item>Потехин Вадим</item>
+        <item>Синицин Никита</item>
+        <item>Сорокин Станислав</item>
+        <item>Стасенко Андрей</item>
+        <item>Сычев Виктор</item>
+        <item>Филиппов Всеволод</item>
+        <item>Цой Дмитрий</item>
+        <item>Червяков Денис</item>
+        <item>Рыбасов Евгений</item>
+        <item>Белобородов Дмитрий</item>
+    </string-array>
+
+    <string-array name="razraby">
+        <item>Бычок Тимофей</item>
+        <item>Бражникова Юлия</item>
+        <item>Чугунова Светлана</item>
+    </string-array>
+
+    <string-array name="vlados">
+        <item>Дворянинов Владислав</item>
+    </string-array>
+</resources>
